@@ -3,57 +3,63 @@
   <channel>
     <title>Hyviä uutisia</title>
     <link>https://reqeastramon.github.io/hyvia-uutisia/</link>
-    <description>Ylen uutisista valittuja juttuja.</description>
+    <description>Valittuja hyviä uutisia.</description>
     <language>fi-FI</language>
-    <hu:filteredCount>142</hu:filteredCount>
-    <hu:publishedCount>8</hu:publishedCount>
+    <hu:filteredCount>128</hu:filteredCount>
+    <hu:publishedCount>9</hu:publishedCount>
     <item>
-      <title>Helsinkiläinen lukiojoukkue haastoi Euroopan huippuja ja pääsi jakamaan nimmareita – ”Tämä on sika siistiä”</title>
-      <link>https://yle.fi/a/74-20252740</link>
-      <guid isPermaLink="false">74-20252740</guid>
-      <pubDate>Thu, 22 Oct 2026 19:27:04 GMT</pubDate>
+      <title>Tutkijat uskovat, että Vincent van Gogh näki oikeasti Tähtikirkkaan yön</title>
+      <link>https://yle.fi/a/74-20253173</link>
+      <guid isPermaLink="false">74-20253173</guid>
+      <pubDate>Sat, 24 Oct 2026 17:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>Leijonien kultamitalisti Atte Ohtamaa iski voittomaalin heti JYP-debyytissään</title>
-      <link>https://yle.fi/a/74-20252920</link>
-      <guid isPermaLink="false">74-20252920</guid>
-      <pubDate>Thu, 22 Oct 2026 18:34:10 GMT</pubDate>
+      <title>Vuoden luontokuvassa lentävät ampiainen ja amiraaliperhonen</title>
+      <link>https://yle.fi/a/74-20253175</link>
+      <guid isPermaLink="false">74-20253175</guid>
+      <pubDate>Sat, 24 Oct 2026 15:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>30 vuoden urakka tuli päätökseen Seitsemisessä: viimeisetkin suo-ojat on nyt ennallistettu</title>
-      <link>https://yle.fi/a/74-20252443</link>
-      <guid isPermaLink="false">74-20252443</guid>
-      <pubDate>Thu, 22 Oct 2026 16:59:05 GMT</pubDate>
+      <title>Vuoden omakotiasukas on ideasampo Maija-Liisa Repo Iisalmesta</title>
+      <link>https://www.sttinfo.fi/tiedote/72441048/vuoden-omakotiasukas-on-ideasampo-maija-liisa-repo-iisalmesta</link>
+      <guid isPermaLink="false">stt-72441048</guid>
+      <pubDate>Sat, 24 Oct 2026 09:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>Wilma Heltelä ja muut suomalaishuiput riemuitsevat EM-kisoista: ”Yksi uran suurista haaveista”</title>
-      <link>https://yle.fi/a/74-20252872</link>
-      <guid isPermaLink="false">74-20252872</guid>
-      <pubDate>Thu, 22 Oct 2026 14:12:55 GMT</pubDate>
+      <title>Lappeenrantaan ilmestyi ensimmäinen sähkölossi – kohta niitä on monin paikoin sisävesillä</title>
+      <link>https://yle.fi/a/74-20252822</link>
+      <guid isPermaLink="false">74-20252822</guid>
+      <pubDate>Sat, 24 Oct 2026 09:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>Vahvistus tuli: Yleisurheilun EM-kisat 2030 järjestetään Helsingissä</title>
-      <link>https://yle.fi/a/74-20252735</link>
-      <guid isPermaLink="false">74-20252735</guid>
-      <pubDate>Thu, 22 Oct 2026 09:16:54 GMT</pubDate>
+      <title>Italian ensimmäinen Hesburger on nyt avattu – Materaan 20 uutta työpaikkaa</title>
+      <link>https://www.sttinfo.fi/tiedote/72427063/italian-ensimmainen-hesburger-on-nyt-avattu-materaan-20-uutta-tyopaikkaa</link>
+      <guid isPermaLink="false">stt-72427063</guid>
+      <pubDate>Sat, 24 Oct 2026 06:59:26 GMT</pubDate>
     </item>
     <item>
-      <title>Hittimusikaali Frozen nähdään Helsingin Kaupunginteatterissa ensi vuonna</title>
-      <link>https://yle.fi/a/74-20252746</link>
-      <guid isPermaLink="false">74-20252746</guid>
-      <pubDate>Thu, 22 Oct 2026 07:36:40 GMT</pubDate>
+      <title>Talonrakentamisen RALA-laatupalkinto 2026 Skanskalle</title>
+      <link>https://www.sttinfo.fi/tiedote/72428230/talonrakentamisen-rala-laatupalkinto-2026-skanskalle</link>
+      <guid isPermaLink="false">stt-72428230</guid>
+      <pubDate>Sat, 24 Oct 2026 04:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pöytyäläisellä pellolla ränsistyy autiotalo, joka on ympäröity portittomalla aidalla – taideteos tallentaa ajan kulkua</title>
-      <link>https://yle.fi/a/74-20252282</link>
-      <guid isPermaLink="false">74-20252282</guid>
-      <pubDate>Thu, 22 Oct 2026 07:30:58 GMT</pubDate>
+      <title>Tältä näyttävät kahden viikon ikäiset Pentuliven koiranpennut – katso suloiset kuvat</title>
+      <link>https://yle.fi/a/74-20251816</link>
+      <guid isPermaLink="false">74-20251816</guid>
+      <pubDate>Fri, 23 Oct 2026 16:59:32 GMT</pubDate>
     </item>
     <item>
-      <title>Turun tuomiokirkon kuusi on löytynyt Aurasta</title>
-      <link>https://yle.fi/a/74-20252602</link>
-      <guid isPermaLink="false">74-20252602</guid>
-      <pubDate>Thu, 22 Oct 2026 03:34:39 GMT</pubDate>
+      <title>Rakkaat lelut ansaitsevat uusia seikkailuja – Prisma Nummela järjestää lelukierrätyksen</title>
+      <link>https://www.sttinfo.fi/tiedote/72438013/rakkaat-lelut-ansaitsevat-uusia-seikkailuja-prisma-nummela-jarjestaa-lelukierratyksen</link>
+      <guid isPermaLink="false">stt-72438013</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ylen hintavertailu: Suomi ei ole enää kalliin ruuan maa – vertasimme Lidlin ruokakorin hintoja eri EU-maissa</title>
+      <link>https://yle.fi/a/74-20251796</link>
+      <guid isPermaLink="false">74-20251796</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
