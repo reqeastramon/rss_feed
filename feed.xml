@@ -5,8 +5,14 @@
     <link>https://reqeastramon.github.io/hyvia-uutisia/</link>
     <description>Valittuja hyviä uutisia.</description>
     <language>fi-FI</language>
-    <hu:filteredCount>128</hu:filteredCount>
-    <hu:publishedCount>9</hu:publishedCount>
+    <hu:filteredCount>221</hu:filteredCount>
+    <hu:publishedCount>50</hu:publishedCount>
+    <item>
+      <title>Ville Koivunen Pittsburghin jatkoaikasankari – Jesperi Kotkaniemi ja Sebastian Aho säestivät Carolinan voittoa</title>
+      <link>https://yle.fi/a/74-20253192</link>
+      <guid isPermaLink="false">74-20253192</guid>
+      <pubDate>Sun, 25 Oct 2026 05:50:15 GMT</pubDate>
+    </item>
     <item>
       <title>Tutkijat uskovat, että Vincent van Gogh näki oikeasti Tähtikirkkaan yön</title>
       <link>https://yle.fi/a/74-20253173</link>
@@ -30,6 +36,12 @@
       <link>https://yle.fi/a/74-20252822</link>
       <guid isPermaLink="false">74-20252822</guid>
       <pubDate>Sat, 24 Oct 2026 09:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Essee: Annoin kalenterini kolmevuotiaan hallinnoitavaksi ja elämäni muuttui paremmaksi</title>
+      <link>https://yle.fi/a/74-20247843</link>
+      <guid isPermaLink="false">74-20247843</guid>
+      <pubDate>Sat, 24 Oct 2026 09:15:18 GMT</pubDate>
     </item>
     <item>
       <title>Italian ensimmäinen Hesburger on nyt avattu – Materaan 20 uutta työpaikkaa</title>
@@ -56,10 +68,244 @@
       <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Suomalaiset keksivät aivan uuden ratkaisun: merikontti, joka muuttuu minikokoiseksi lääketehtaaksi</title>
+      <link>https://yle.fi/a/74-20252510</link>
+      <guid isPermaLink="false">74-20252510</guid>
+      <pubDate>Fri, 23 Oct 2026 09:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tammerkosken rannalla nähdään perjantaina jotain poikkeuksellista: Ooppera naisten äänioikeudesta</title>
+      <link>https://yle.fi/a/74-20252713</link>
+      <guid isPermaLink="false">74-20252713</guid>
+      <pubDate>Fri, 23 Oct 2026 06:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erityisesti osakkeet lihottivat Varman sijoitustuottoja</title>
+      <link>https://yle.fi/a/74-20252954</link>
+      <guid isPermaLink="false">74-20252954</guid>
+      <pubDate>Fri, 23 Oct 2026 06:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lieksa ottaa Reposuon retkeilyrakenteet huolekseen – jälleen yksi kohde, jonka vastuun Metsähallitus siirtää kunnalle</title>
+      <link>https://yle.fi/a/74-20252935</link>
+      <guid isPermaLink="false">74-20252935</guid>
+      <pubDate>Fri, 23 Oct 2026 05:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>VR lisää myöhäisillan IC-vuoron Helsingistä Tampereelle</title>
+      <link>https://yle.fi/a/74-20252937</link>
+      <guid isPermaLink="false">74-20252937</guid>
+      <pubDate>Fri, 23 Oct 2026 05:12:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Ylen hintavertailu: Suomi ei ole enää kalliin ruuan maa – vertasimme Lidlin ruokakorin hintoja eri EU-maissa</title>
       <link>https://yle.fi/a/74-20251796</link>
       <guid isPermaLink="false">74-20251796</guid>
       <pubDate>Fri, 23 Oct 2026 04:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jämsässä on 1 200 työtöntä ja vain 27 avointa työpaikkaa – miljardi-investoinnista toivotaan apua ankeuteen</title>
+      <link>https://yle.fi/a/74-20252297</link>
+      <guid isPermaLink="false">74-20252297</guid>
+      <pubDate>Fri, 23 Oct 2026 03:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helsinki yllätti Brysselin EM-kisahaussa – ministeri Mika Poutala pitää valtion miljoonatukea kannattavana sijoituksena</title>
+      <link>https://yle.fi/a/74-20252915</link>
+      <guid isPermaLink="false">74-20252915</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eteläpohjalaisen lannan voimalla Merenkurkun yli – Wasaline alkaa käyttää nurmolaista biokaasua</title>
+      <link>https://yle.fi/a/74-20252852</link>
+      <guid isPermaLink="false">74-20252852</guid>
+      <pubDate>Thu, 22 Oct 2026 12:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oletko menossa Helsingin kirjamessuille? Tässä kymmenen vinkkiä valintaa helpottamaan</title>
+      <link>https://yle.fi/a/74-20248203</link>
+      <guid isPermaLink="false">74-20248203</guid>
+      <pubDate>Thu, 22 Oct 2026 08:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nokian uusi suunta: tekoälyä, avaruutta ja puolustusta</title>
+      <link>https://yle.fi/a/74-20252764</link>
+      <guid isPermaLink="false">74-20252764</guid>
+      <pubDate>Thu, 22 Oct 2026 08:16:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Datakeskushankkeet nostivat SRV:n kannattavuutta</title>
+      <link>https://yle.fi/a/74-20252706</link>
+      <guid isPermaLink="false">74-20252706</guid>
+      <pubDate>Thu, 22 Oct 2026 05:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helsingin kaupungin uusi selvitys suosittaa: Vanhankaupunginkosken patoa ei pureta</title>
+      <link>https://yle.fi/a/74-20252524</link>
+      <guid isPermaLink="false">74-20252524</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keskellä sodankyläläistä suota on kallista avaruusteknologiaa, joka mullistaa ymmärryksemme kasvillisuudesta</title>
+      <link>https://yle.fi/a/74-20251389</link>
+      <guid isPermaLink="false">74-20251389</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apteekeista on tullut rokotuskeskuksia</title>
+      <link>https://yle.fi/a/74-20252247</link>
+      <guid isPermaLink="false">74-20252247</guid>
+      <pubDate>Tue, 20 Oct 2026 03:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korealaiset julkkikset deittailivat tekoälyhahmoja – tunteet yllättivät osallistujat</title>
+      <link>https://yle.fi/a/74-20252134</link>
+      <guid isPermaLink="false">74-20252134</guid>
+      <pubDate>Mon, 19 Oct 2026 17:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Andeilta löytynyt kasvilaji nimettiin Lionel Messin mukaan</title>
+      <link>https://yle.fi/a/74-20252143</link>
+      <guid isPermaLink="false">74-20252143</guid>
+      <pubDate>Mon, 19 Oct 2026 10:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pohde otti tekoälyn avuksi ajanvaraukseen</title>
+      <link>https://yle.fi/a/74-20252091</link>
+      <guid isPermaLink="false">74-20252091</guid>
+      <pubDate>Mon, 19 Oct 2026 08:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Indonesiassa kymmeniä uhanalaisia orankeja pelastettu metsäpaloista</title>
+      <link>https://yle.fi/a/74-20251997</link>
+      <guid isPermaLink="false">74-20251997</guid>
+      <pubDate>Sun, 18 Oct 2026 09:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saukko palasi sukupuuton partaalta elinvoimaiseksi, mutta kaupungit tuovat uusia vaaroja</title>
+      <link>https://yle.fi/a/74-20251129</link>
+      <guid isPermaLink="false">74-20251129</guid>
+      <pubDate>Sun, 18 Oct 2026 05:24:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNN: Tutkijat löysivät ensimmäistä kertaa vihreältä näyttävän tähden</title>
+      <link>https://yle.fi/a/74-20251928</link>
+      <guid isPermaLink="false">74-20251928</guid>
+      <pubDate>Sat, 17 Oct 2026 08:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sigrid Munnukka karttoi rakennuksia luontokuvissaan – nyt hän kysyy, miksi vain tietynlainen luonto kelpaa kuviin</title>
+      <link>https://yle.fi/a/74-20251381</link>
+      <guid isPermaLink="false">74-20251381</guid>
+      <pubDate>Sat, 17 Oct 2026 07:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remedy: Control Resonant myynyt jo yli miljoona kappaletta</title>
+      <link>https://yle.fi/a/74-20251722</link>
+      <guid isPermaLink="false">74-20251722</guid>
+      <pubDate>Thu, 15 Oct 2026 16:14:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suomessa syödään ulkomaista bataattia – tutkijat kasvattivat sitä helsinkiläispellolla ja onnistuivat</title>
+      <link>https://yle.fi/a/74-20250534</link>
+      <guid isPermaLink="false">74-20250534</guid>
+      <pubDate>Thu, 15 Oct 2026 04:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>KAJ:n Axel Åhman komediasarjan päärooliin</title>
+      <link>https://yle.fi/a/74-20251317</link>
+      <guid isPermaLink="false">74-20251317</guid>
+      <pubDate>Tue, 13 Oct 2026 13:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yleisö villiintyi, kun Helsingin Savoy-teatterin lavalle nousi joukko queerlesque-taiteilijoita</title>
+      <link>https://yle.fi/a/74-20250558</link>
+      <guid isPermaLink="false">74-20250558</guid>
+      <pubDate>Tue, 13 Oct 2026 08:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Syövästä toipunut Milla Madetoja palaa tv-ruutuun</title>
+      <link>https://yle.fi/a/74-20250904</link>
+      <guid isPermaLink="false">74-20250904</guid>
+      <pubDate>Sun, 11 Oct 2026 16:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britney Spearsilta uutta musiikkia</title>
+      <link>https://yle.fi/a/74-20250923</link>
+      <guid isPermaLink="false">74-20250923</guid>
+      <pubDate>Sun, 11 Oct 2026 12:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nobelin kemianpalkinto 2026 ratkaisi vuosisataisen molekyylien mysteerin</title>
+      <link>https://yle.fi/a/74-20250232</link>
+      <guid isPermaLink="false">74-20250232</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kemian Nobel-palkinto ranskalaiselle ja japanilaiselle tutkijalle</title>
+      <link>https://yle.fi/a/74-20250267</link>
+      <guid isPermaLink="false">74-20250267</guid>
+      <pubDate>Wed, 07 Oct 2026 09:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Idea jäätikön alla sykkivistä haamuhiukkasista toi Francis Halzenille fysiikan Nobelin</title>
+      <link>https://yle.fi/a/74-20250092</link>
+      <guid isPermaLink="false">74-20250092</guid>
+      <pubDate>Tue, 06 Oct 2026 16:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fysiikan Nobel-palkinnon saa fyysikko Francis Halzen</title>
+      <link>https://yle.fi/a/74-20250074</link>
+      <guid isPermaLink="false">74-20250074</guid>
+      <pubDate>Tue, 06 Oct 2026 09:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neurotieteen vallankumous, sanoo suomalaistutkija lääketieteen Nobelilla palkitusta keksinnöstä</title>
+      <link>https://yle.fi/a/74-20249847</link>
+      <guid isPermaLink="false">74-20249847</guid>
+      <pubDate>Mon, 05 Oct 2026 15:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Niko Saarisen ensiesiintyminen televisiossa tapahtui Pikku Kakkosessa – nyt hän näki arkistoihin kadonneen videon</title>
+      <link>https://yle.fi/a/74-20244662</link>
+      <guid isPermaLink="false">74-20244662</guid>
+      <pubDate>Mon, 05 Oct 2026 08:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nobel-viikko alkaa lääketieteen palkinnon julkistamisella Tukholmassa</title>
+      <link>https://yle.fi/a/74-20249740</link>
+      <guid isPermaLink="false">74-20249740</guid>
+      <pubDate>Sun, 04 Oct 2026 23:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>UMK-liput varattiin loppuun ennätysajassa</title>
+      <link>https://yle.fi/a/74-20249077</link>
+      <guid isPermaLink="false">74-20249077</guid>
+      <pubDate>Thu, 01 Oct 2026 07:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uusi tutkimus kehottaa: jätä lehdet haravoimatta ja piha rehottamaan, niin parannat terveyttäsi</title>
+      <link>https://yle.fi/a/74-20248639</link>
+      <guid isPermaLink="false">74-20248639</guid>
+      <pubDate>Thu, 01 Oct 2026 05:29:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tehosekoitin tekee paluun ensi kesän festareille</title>
+      <link>https://yle.fi/a/74-20248808</link>
+      <guid isPermaLink="false">74-20248808</guid>
+      <pubDate>Tue, 29 Sep 2026 07:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ismo ja Seppo ikuisesti pohkeissa – Henna Sarja ei kyllästy, vaikka Salkkareita on jo 5 000 jaksoa</title>
+      <link>https://yle.fi/a/74-20243916</link>
+      <guid isPermaLink="false">74-20243916</guid>
+      <pubDate>Thu, 24 Sep 2026 05:41:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artisti Edicti vietti tavallista iltaa kaveriporukallaan, kunnes joku kysyi: ”Voimmeko jutella kunnolla?”</title>
+      <link>https://yle.fi/a/74-20245799</link>
+      <guid isPermaLink="false">74-20245799</guid>
+      <pubDate>Sat, 19 Sep 2026 09:26:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
